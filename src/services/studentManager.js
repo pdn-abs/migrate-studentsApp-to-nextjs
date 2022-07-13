@@ -11,7 +11,7 @@ const studentManager = {
 				name: state.name,
 				english: state.english,
 				tamil: state.tamil,
-				maths: state.maths,
+				science: state.science,
 			},
 		];
 	},

@@ -2,7 +2,7 @@ const seed = {
 	name: '',
 	english: '',
 	tamil: '',
-	maths: '',
+	science: '',
 	studentDetails: [],
 };
 
